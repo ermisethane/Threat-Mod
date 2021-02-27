@@ -208,29 +208,6 @@
               "id": "0d4eb778-ba1b-446f-b7ec-d521d9928f94",
               "z": 6,
               "attrs": {}
-            },
-            {
-              "type": "tm.Boundary",
-              "smooth": true,
-              "source": {
-                "id": "fb1e0195-a34b-46dd-a17f-499caf39279f"
-              },
-              "target": {
-                "id": "fb1e0195-a34b-46dd-a17f-499caf39279f"
-              },
-              "vertices": [
-                {
-                  "x": 574,
-                  "y": 240
-                },
-                {
-                  "x": 565,
-                  "y": 368
-                }
-              ],
-              "id": "7da252a0-6f1e-4f6b-ab7d-8d843a0214ab",
-              "z": 8,
-              "attrs": {}
             }
           ]
         },
