@@ -213,22 +213,6 @@
               "type": "tm.Boundary",
               "smooth": true,
               "source": {
-                "x": 532,
-                "y": 268
-              },
-              "target": {
-                "x": 533,
-                "y": 99
-              },
-              "vertices": [],
-              "id": "f4c49b21-f71e-4b13-9727-f6cd4721abd3",
-              "z": 7,
-              "attrs": {}
-            },
-            {
-              "type": "tm.Boundary",
-              "smooth": true,
-              "source": {
                 "id": "fb1e0195-a34b-46dd-a17f-499caf39279f"
               },
               "target": {
